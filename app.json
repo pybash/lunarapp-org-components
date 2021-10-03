@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "lunarnet_app",
+    "slug": "lunarnet_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "lunarnet_app"
+}
